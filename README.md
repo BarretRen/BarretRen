@@ -1,16 +1,20 @@
-### Hi there 👋
+# 🌟Hello，World ！This is Barret!🌟
 
-<!--
-**BarretRen/BarretRen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤾‍♀️Major Skills
+🥕C/C++、🥕Linux、🥕Markdown、🥕SIP/ISDN、🥕Project Management
 
-Here are some ideas to get you started:
+## ⛹️‍♂️Github Status
+|||
+|:-|:-|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barretren&count_private=true&show_icons=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barretren)|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏋️‍♂️Catch me
+||||
+|:-|:-|:-|
+|🎪[Github](https://github.com/barretren)|🎪[Gitee](https://gitee.com/barretren)|🎪[YuQue](https://www.yuque.com/barret)|
+
+## 🚴‍♀️Personl Note links
+* 🎡Programing Notes: https://barretren.github.io/ProgrammingNotes/
+* 🎡Project Manager Notes: https://barretren.github.io/ProjectManagerNotes/
+* 🎡Reading Notes: https://barretren.github.io/ReadingNotes/
+* 🎡FFmpeg Notes: https://barretren.github.io/FFmpegNotes/
