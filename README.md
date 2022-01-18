@@ -17,4 +17,3 @@
 * 🎡Programing Notes: https://barretren.github.io/ProgrammingNotes/
 * 🎡Project Manager Notes: https://barretren.github.io/ProjectManagerNotes/
 * 🎡Reading Notes: https://barretren.github.io/ReadingNotes/
-* 🎡FFmpeg Notes: https://barretren.github.io/FFmpegNotes/
