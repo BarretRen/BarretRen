@@ -11,9 +11,11 @@
 ## 🏋️‍♂️Catch me
 ||||
 |:-|:-|:-|
-|🎪[Github](https://github.com/barretren)|🎪[Gitee](https://gitee.com/barretren)|🎪[YuQue](https://www.yuque.com/barret)|
+|🎪[Github](https://github.com/barretren)|🎪[YuQue](https://www.yuque.com/barret)|
 
 ## 🚴‍♀️Personl Note links
-* 🎡Programing Notes: https://barretren.github.io/ProgrammingNotes/
-* 🎡Project Manager Notes: https://barretren.github.io/ProjectManagerNotes/
-* 🎡Reading Notes: https://barretren.github.io/ReadingNotes/
+* 🎡https://github.com/BarretRen/AlgorithmDataStructure
+* 🎡https://github.com/BarretRen/ProgrammingNotes
+* 🎡https://github.com/BarretRen/ProjectManagerNotes
+* 🎡https://github.com/BarretRen/ReadingNotes
+* 🎡https://github.com/BarretRen/RustStudyNotes
