@@ -1,7 +1,7 @@
 # 🌟Hello，World ！This is Barret!🌟
 
 ## 🤾‍♀️Major Skills
-🥕C/C++、🥕Linux、🥕Markdown、🥕SIP/ISDN、🥕Project Management
+🥕C/C++、🥕Linux、🥕Markdown、🥕SIP/ISDN/WIFI/BLE、🥕Project Management
 
 ## ⛹️‍♂️Github Status
 |||
